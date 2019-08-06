@@ -218,7 +218,7 @@
                         <div class="small text-muted">October 2017</div>
                     </div>
                     <!--/.col-->
-                    <div class="col-sm-8 hidden-sm-down">
+                    <div class="col-sm-12 hidden-sm-down">
                         <button type="button" class="btn btn-primary float-right bg-flat-color-1"><i class="fa fa-cloud-download"></i></button>
                         <div class="btn-toolbar float-right" role="toolbar" aria-label="Toolbar with button groups">
                             <div class="btn-group mr-3" data-toggle="buttons" aria-label="First group">
